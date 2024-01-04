@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shashiranjan168
+- 👋 Hi, I’m Shashi Ranjan
 - 👀 I’m interested in web devlopment and cyber security.
 - 🌱 I’m currently learning full stack decvlopment.
 - 💞️ I’m looking to collaborate on anyn web devlopment projects .
